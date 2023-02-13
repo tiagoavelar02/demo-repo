@@ -5,4 +5,4 @@ First repository!
 try first!
 
 ## Local development
-1. Open index.html in your browser
+1. Open index.html in your browser!
